@@ -19,7 +19,7 @@
     "typescript-plugin-css-modules": "^3.4.0"
   },
   "dependencies": {
-    "@vev/react": "^0.0.1-alpha.6",
+    "@vev/react": "^0.0.1-alpha.7",
     "react": "^18.2.0"
   }
 }
