@@ -1,2 +1,1 @@
-# create-vev-app
-Template for Vev CLI
+# Create Vev App

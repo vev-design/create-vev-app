@@ -1,0 +1,17 @@
+{
+  "include": ["src/**/*"],
+  "exlude": ["node_modules", ".vev"],
+  "compilerOptions": {
+    "target": "es2020",
+    "jsx": "react",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": false,
+    "plugins": [
+      {
+        "name": "typescript-plugin-css-modules"
+      }
+    ]
+  }
+}
