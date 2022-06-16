@@ -7,6 +7,11 @@
     "type": "git",
     "url": "git+https://github.com/vev-design/create-vev-app.git"
   },
+  "scripts": {
+    "login": "vev login",
+    "init": "vev init",
+    "start": "vev start"
+  },
   "author": "Fredrik Jensen [fredjens@vev.design]",
   "license": "MIT",
   "bugs": {
