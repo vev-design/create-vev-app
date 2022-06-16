@@ -1,4 +1,5 @@
 .vscode/
+.idea/
 node_modules/
 build/
 .DS_Store
@@ -10,4 +11,4 @@ yarn-error.log*
 .npm/
 
 ## Vev
-.vev
+.vev/
