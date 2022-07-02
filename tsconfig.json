@@ -3,6 +3,7 @@
   "exlude": ["node_modules", ".vev"],
   "compilerOptions": {
     "target": "es2020",
+    "lib": ["dom", "es2020"],
     "jsx": "react",
     "esModuleInterop": true,
     "moduleResolution": "node",
