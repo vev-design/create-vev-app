@@ -1,8 +1,3 @@
-<video autoplay>
-    <source src="https://film.vev.design/XoYKo6hk0m/9dDmtRbbmg.390sr734i.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
-    <img src="https://film.vev.design/XoYKo6hk0m/9dDmtRbbmg.390sr734i.360.webm-00001.png" style="width: 100%">
-</video>
-
 # Getting started with Vev CLI
 
 > This project was bootstrapped with [Create Vev App](https://github.com/vev-design/create-vev-app).
@@ -46,5 +41,8 @@ You can choose to share your components with your account, workspace or team. Co
 
 
 ---
+
+<a href="https://film.vev.design/XoYKo6hk0m/9dDmtRbbmg.390sr734i.mp4"><img src="https://film.vev.design/XoYKo6hk0m/9dDmtRbbmg.390sr734i.360.webm-00001.png"></a>
+
 [Vev Developer Documentation](https://developer.vev.design/docs/cli/)
 
