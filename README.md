@@ -1,4 +1,7 @@
-<a href="https://film.vev.design/XoYKo6hk0m/9dDmtRbbmg.390sr734i.mp4"><img src="https://film.vev.design/XoYKo6hk0m/9dDmtRbbmg.390sr734i.360.webm-00001.png" style="width: 100%"></a>
+<video autoplay>
+    <source src="https://film.vev.design/XoYKo6hk0m/9dDmtRbbmg.390sr734i.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+    <img src="https://film.vev.design/XoYKo6hk0m/9dDmtRbbmg.390sr734i.360.webm-00001.png" style="width: 100%">
+</video>
 
 # Getting started with Vev CLI
 
