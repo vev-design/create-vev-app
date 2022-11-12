@@ -1,7 +1,4 @@
-
-<video width="100%" autoplay>
-  <source src="https://film.vev.design/XoYKo6hk0m/9dDmtRbbmg.390sr734i.mp4" type="video/mp4">
-</video>
+[![Vev CLI](https://film.vev.design/XoYKo6hk0m/9dDmtRbbmg.390sr734i.360.webm-00001.png)](https://film.vev.design/XoYKo6hk0m/9dDmtRbbmg.390sr734i.mp4)
 
 # Getting started with Vev CLI
 
