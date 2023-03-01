@@ -1,6 +1,6 @@
 {
-  "include": ["src/**/*", "workers/**/*"],
-  "exlude": ["node_modules", ".vev"],
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", ".vev"],
   "compilerOptions": {
     "target": "es2020",
     "lib": ["dom", "es2020"],
