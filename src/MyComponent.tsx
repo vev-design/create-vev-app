@@ -23,6 +23,7 @@ registerVevComponent(MyComponent, {
       properties: ["background"],
     },
   ],
+  type: 'standard',
 });
 
 export default MyComponent;
