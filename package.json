@@ -21,10 +21,10 @@
   "devDependencies": {
     "@types/react": "latest",
     "prettier": "2.7.0",
-    "typescript-plugin-css-modules": "^3.4.0"
+    "typescript-plugin-css-modules": "^5.0.1"
   },
   "dependencies": {
     "@vev/react": "latest",
-    "react": "^17.0.2"
+    "react": "^18.2.0"
   }
 }
