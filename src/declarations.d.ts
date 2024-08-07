@@ -1,3 +1,10 @@
 declare module "*.scss";
 declare module "*.css";
-declare const process: {env: Record<string, string>}
+
+declare module "*?worker" {
+  class VevWorker extends Worker {
+    constructor();
+  }
+
+  export default VevWorker;
+}
